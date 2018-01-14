@@ -1,0 +1,30 @@
+{
+    "vim.disableAnnoyingNeovimMessage": true,
+    "cSpell.language": "en",
+    "cSpell.enabledLanguageIds": [
+        "c",
+        "cpp",
+        "csharp",
+        "go",
+        "handlebars",
+        "html",
+        "javascript",
+        "javascriptreact",
+        "json",
+        "latex",
+        "markdown",
+        "php",
+        "plaintext",
+        "python",
+        "restructuredtext",
+        "text",
+        "typescript",
+        "typescriptreact",
+        "yml"
+    ],
+    "vim.foldfix": true,
+    "workbench.colorTheme": "Monokai",
+    "terminal.integrated.cursorBlinking": true,
+    "csharp.suppressDotnetInstallWarning": true,
+    "csharp.suppressDotnetRestoreNotification": true
+}
